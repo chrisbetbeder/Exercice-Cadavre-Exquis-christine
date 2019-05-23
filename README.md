@@ -7,7 +7,7 @@ Un petit canard qui voulait avoir:
 * Un chalet en Suisse
 * Une sarbacane
 * Un big mac 
-
+* **Besoiiiiin de toiiii enviiiiie de rieeeeeenn !**
 > Il se dit donc qu'il voulait *devait* se procurer tout ça, mais ça coute **de l'argent**
 > Apres s'être dit qu'il pourrait les ~~voler~~ *emprunter*, il fit une recherche et tomba sur le graal : 
 
