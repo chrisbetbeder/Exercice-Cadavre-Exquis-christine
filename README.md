@@ -6,9 +6,14 @@ Un petit canard qui voulait avoir:
 
 * Un chalet en Suisse
 * Une sarbacane
+<<<<<<< HEAD
 * Un big mac
 * Un vieux fermier
 
+=======
+* Un big mac 
+* **Besoiiiiin de toiiii enviiiiie de rieeeeeenn !**
+>>>>>>> e21ba906e115a6219a02d43a4752010d22d05643
 > Il se dit donc qu'il voulait *devait* se procurer tout ça, mais ça coute **de l'argent**
 > Apres s'être dit qu'il pourrait les ~~voler~~ *emprunter*, il fit une recherche et tomba sur le graal :
 
